@@ -1,6 +1,10 @@
 # Demo
 
-> NativeScript Demo
+Demo for presentation "Nativescript Vue".
+
+Showing 
+- manual navigation -> colors
+- simple vuex -> football
 
 ## Usage
 
