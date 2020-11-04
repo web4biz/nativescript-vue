@@ -3,7 +3,7 @@
 Demo for presentation "Nativescript Vue".
 
 Showing 
-- manual navigation -> colors
+- manual navigation -> color
 - simple vuex -> football
 
 ## Usage
